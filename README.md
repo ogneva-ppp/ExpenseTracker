@@ -1,6 +1,6 @@
 <div align="center">
 
-# ExpenseTracker Rose
+# ExpenseTracker
 
 **Личные финансы в розовых тонах**
 
