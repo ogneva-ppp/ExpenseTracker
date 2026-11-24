@@ -1,0 +1,31 @@
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кеш Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Настройки PyCharm
+.idea/
+
+# Логи и резервные копии
+*.log
+error_log.txt
+main_backup.py
+
+# Локальные данные
+transactions.json
+transactions_export.csv
+expenses.json
+data.json
+
+# Конфиденциальные настройки
+.env
+.env.*
+*credentials*.json
+*serviceAccount*.json
+*token*.json
+firebase_config.json
