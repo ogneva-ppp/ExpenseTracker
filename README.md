@@ -31,7 +31,31 @@
 | Управление | Поиск, фильтрация, редактирование и удаление операций |
 | Экспорт | Выгрузка всех операций в CSV |
 
-<!-- Когда будут готовы скриншоты, добавьте раздел «Интерфейс» с изображениями screenshots/main.png и screenshots/charts.png. -->
+## Интерфейс приложения
+
+### Главное окно приложения
+
+![Главное окно приложения](screenshots/main.png)
+
+### Диаграммы доходов и расходов
+
+![Диаграммы доходов и расходов](screenshots/charts.png)
+
+### Форма добавления новой операции
+
+![Форма добавления новой операции](screenshots/add_operation.png)
+
+### Статистика по операциям
+
+![Статистика по операциям](screenshots/statistics.png)
+
+### Успешная отправка данных в Firebase
+
+![Успешная отправка данных в Firebase](screenshots/cloud_upload.png)
+
+### Успешная загрузка данных из Firebase
+
+![Успешная загрузка данных из Firebase](screenshots/cloud_download.png)
 
 ## Быстрый запуск
 
@@ -87,3 +111,8 @@ python -m unittest discover -s tests -v
 Made with Python
 
 </div>
+
+
+## Отчёт
+
+[Скачать отчёт о выполнении домашнего задания (Word)](docs/ExpenseTracker_Report.docx)
