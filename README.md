@@ -111,8 +111,3 @@ python -m unittest discover -s tests -v
 Made with Python
 
 </div>
-
-
-## Отчёт
-
-[Скачать отчёт о выполнении домашнего задания (Word)](docs/ExpenseTracker_Report.docx)
